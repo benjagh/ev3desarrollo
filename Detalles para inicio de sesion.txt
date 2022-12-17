@@ -1,0 +1,13 @@
+
+**Admin**
+Usuario: admin
+Contraseña: admin123
+
+**Staff**
+Usuario: staff
+Contraseña: pass
+
+**Staff2**
+
+Usuario: jsmith
+Contraseña: test#123
